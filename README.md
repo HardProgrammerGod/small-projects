@@ -1,3 +1,3 @@
 # small-projects
 
-temp conv - 
+temp conv - Temperature unit converter
