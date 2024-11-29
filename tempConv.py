@@ -1,5 +1,4 @@
 # Temperature unit converter 
-"""
 import numpy as np
 
 temperatures = input("Enter temperature:").split(",")
@@ -23,4 +22,3 @@ else:
     exit()
 
 print(f"Converted temperatures ({target_unit}) = ({converted})")
-"""
